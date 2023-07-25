@@ -1,0 +1,9 @@
+#title{
+    color: blue ;
+}
+.title{
+    color: red;
+}
+p{
+    color: var(--t);
+}
